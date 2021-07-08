@@ -1,4 +1,4 @@
-# blogen
+# blogen (not finished yet in development)
 this is a blog generator generates all company requirements
 note: offline mode is not work for now, still in development.
 
