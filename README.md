@@ -1,4 +1,8 @@
 # blogen (not finished yet in development)
+
+only drive for now
+https://drive.google.com/drive/folders/1jeofVk_Dxp0Ecebvfz_6MPnX7CDgbW9x?usp=sharing
+## |||||||||||||||||||||||
 this is a blog generator generates all company requirements
 note: offline mode is not work for now, still in development.
 
